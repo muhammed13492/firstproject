@@ -1,0 +1,60 @@
+h1{
+    text-align: center;;
+    color: yellow  ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    font-weight: 900;
+    font-style: normal;
+    background: url(k.jpg);
+    background-size: cover;
+    height:50%;
+    background-position: center;
+    background-repeat: no-repeat;  
+    margin: 0px;
+    background-attachment: fixed;
+    line-height: 4;
+}
+h1 span{
+    color: white;
+}
+h2{
+    text-align: center;;
+    color: blue ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    font-weight: 900;
+    font-style: normal;
+    background: yellow;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;  
+    margin:0px;
+    line-height: 2;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float:right;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.column {
+    float: left;
+    width:20%;
+    padding: 5px;
+    margin: 50px;
+    margin-left: 100px ;
+  }
+ 
